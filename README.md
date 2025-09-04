@@ -1,0 +1,2 @@
+# FishAppMenu
+An App instance
